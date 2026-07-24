@@ -5,5 +5,3 @@ Proyecto basado en PyTorch (SSD300) para la detección y clasificación de 4 cla
 2. Animales
 3. Personas
 4. Objetos
-
-Entrenado optimizando recursos para Kaggle (máximo 3 horas de entrenamiento).
