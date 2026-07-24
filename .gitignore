@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Datos y Modelos
+data/
+models/
+*.pth
+*.pt
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Kaggle y Jupyter
+.ipynb_checkpoints/
